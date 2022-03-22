@@ -1,0 +1,1 @@
+/* Authentication action types */

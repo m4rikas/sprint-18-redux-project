@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "email": "test13@test.com",
+      "password": "$2a$10$Ur5GDdPHVRr8jsN3StpP0.baeM7CVoCEhzGCQLRkQ9HRDXC9y5Z5a",
+      "firstName": "Kevin",
+      "lastName": "Cunningham",
+      "id": 4
+    },
+    {
+      "email": "test@test.com",
+      "password": "$2a$10$egiR3Qj7iSeXlcivo0ba2eDvmakLuSeFJLV5U1YNHGcszRu.cZq0W",
+      "firstName": "John",
+      "lastName": "Doe",
+      "id": 5
+    },
+    {
+      "email": "second@test.com",
+      "password": "$2a$10$rFLStLp1aw0mZdTyzFpb2OA1ZITFfKhl.ZrGbVjKReIVE6MiX5F02",
+      "firstName": "Second",
+      "lastName": "Test",
+      "id": 6
+    },
+    {
+      "email": "test4@test.com",
+      "password": "$2a$10$P0yt3Kv8hQW91ChlmHCWp.4ReyGjXw6Oe7oUgNSTYJxOe4dZBONYy",
+      "firstName": "Kevin",
+      "lastName": "Cunningham",
+      "id": 7
+    },
+    {
+      "email": "this@test.com",
+      "password": "$2a$10$HFMNWa0IqUW1Gg9FhxpyfeNishUUQdSRmO1z3IoQNuCcCLX8MKME2",
+      "firstName": "Marco",
+      "lastName": "Polo",
+      "id": 8
+    }
+  ]
+}
